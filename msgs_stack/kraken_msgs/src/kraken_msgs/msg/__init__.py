@@ -14,6 +14,7 @@ from ._orientControllerActionFeedback import *
 from ._orientControllerAction import *
 from ._controllerAction import *
 from ._advancedControllerResult import *
+from ._thrusterData4Thruster import *
 from ._orientActionFeedback import *
 from ._depthData import *
 from ._orientControllerGoal import *
@@ -22,7 +23,10 @@ from ._imuData import *
 from ._orientGoal import *
 from ._controllerGoal import *
 from ._orientActionResult import *
+from ._forceData6Thruster import *
+from ._thrusterData6Thruster import *
 from ._advancedControllerActionFeedback import *
+from ._forceData4Thruster import *
 from ._controllerResult import *
 from ._orientResult import *
 from ._orientAction import *
